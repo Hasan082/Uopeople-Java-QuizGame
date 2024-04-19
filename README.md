@@ -1,4 +1,4 @@
-## UoPeople Quize Game
+## Quize Game Using Java
 
 ### Problem Statement
 
